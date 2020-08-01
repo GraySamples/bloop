@@ -1,4 +1,4 @@
-const linkText = document.querySelector(".link-text");
+  const linkText = document.querySelector(".link-text");
   const linkImage = document.querySelector(".link-image");
 
   function showImgContent(e) {
